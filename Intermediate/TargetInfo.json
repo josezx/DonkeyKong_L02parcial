@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_L02",
+			"Path": "D:\\sis457\\zzz\\DonkeyKong_L02\\DonkeyKong_L02\\DonkeyKong_L02plataformas10\\DonkeyKong_L02plataformas15\\DonkeyKong_L02\\Source\\DonkeyKong_L02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_L02Editor",
+			"Path": "D:\\sis457\\zzz\\DonkeyKong_L02\\DonkeyKong_L02\\DonkeyKong_L02plataformas10\\DonkeyKong_L02plataformas15\\DonkeyKong_L02\\Source\\DonkeyKong_L02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
